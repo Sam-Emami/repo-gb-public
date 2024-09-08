@@ -1,8 +1,0 @@
-Instructions
-Task 1 - Creating a Python script to enable web scraping of an url.
-
-Please see the attached files for instructions.
-
-Fill your code in the attached .py file, run the code, submit .py and newly built .txt file.
-
-All the best. Have fun learning.
